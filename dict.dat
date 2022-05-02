@@ -16,8 +16,6 @@ tcpdos|Backdoor
 Spread|Worm
 Exploit|Worm
 EternalBlue|Worm
-Disk|Worm
-DriveInfo|Worm
 Slowdown|Worm
 disablefirewall|Worm
 wnry|WannaCry
