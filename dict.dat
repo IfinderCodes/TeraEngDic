@@ -2,7 +2,6 @@ CreateRemoteThread|Trojan
 NtUnmapViewOfSection|Trojan
 GetAsyncKeyState|Keylogger
 recoverPass|Trojan
-ShutDown|Trojan
 NoSleep|Trojan
 GetWindowText|Keylogger
 SetWindowsHookEx|Keylogger
