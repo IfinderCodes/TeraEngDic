@@ -1,0 +1,4 @@
+CreateRemoteThread|Trojan
+NtUnmapViewOfSection|Trojan
+GetAsyncKeyState|Keylogger
+recoverPass|Trojan
