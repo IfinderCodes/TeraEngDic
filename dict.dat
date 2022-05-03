@@ -13,6 +13,7 @@ EncryptFile|FileCrypter
 RijandaelManaged|FileCrypter
 GrabInfo|Backdoor
 TcpListener|Backdoor
+persistence|Backdoor
 ddos|Backdoor
 tcpdos|Backdoor
 Spread|Worm
