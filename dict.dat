@@ -1,6 +1,6 @@
 CreateRemoteThread|Trojan
 NtUnmapViewOfSection|Trojan
-B3_Pr3p@r3d_F0r_Bl@ckSh@rd$_By_D@rkN0v@|trojan
+B3_Pr3p@r3d_F0r_Bl@ckSh@rd$_By_D@rkN0v@|Trojan
 GetAsyncKeyState|Keylogger
 recoverPass|Trojan
 NoSleep|Trojan
