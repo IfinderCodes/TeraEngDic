@@ -30,3 +30,5 @@ computerdefaults|UACBypass
 Chromium|Stealer
 leveldb|Stealer
 *.ldb|Stealer
+https://discord.com/api/webhooks/|Stealer
+.ROBLOSECURITY|Stealer
